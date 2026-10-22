@@ -1,0 +1,8 @@
+{
+  "name": "OKX Spot & Derivatives Trader",
+  "description": "Professional multi-instrument trading terminal with automated rule bots and autonomous trading agent for OKX.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
